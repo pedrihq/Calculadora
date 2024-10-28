@@ -11,6 +11,11 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        corLaranja: "#FF9500",
+        corCinza: "#505050",
+      },
+      backgroundImage: {
+        cell: "url('assets/Celular.webp')",
       },
     },
   },

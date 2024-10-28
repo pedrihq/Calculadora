@@ -14,7 +14,6 @@ Esta calculadora foi desenvolvida como um exercício de aprendizado, com foco em
 - Limpeza dos dados exibidos.
 - Interface responsiva para uso em dispositivos móveis e desktop.
 
-[07:13, 28/10/2024] Lucas: ## Como Rodar o Projeto
 
 Para rodar o projeto localmente, siga os passos abaixo:
 
@@ -27,7 +26,6 @@ Para rodar o projeto localmente, siga os passos abaixo:
 1. Clone o repositório para sua máquina:
    ```bash
    git clone https://github.com/seu-usuario/calculadora.git
-[07:14, 28/10/2024] 
 
 bash
 
